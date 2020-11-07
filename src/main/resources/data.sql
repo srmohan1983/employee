@@ -1,0 +1,1 @@
+insert into employee(ID,GENDER,NAME) values (1,'Male','Mohan');
